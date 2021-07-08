@@ -1,5 +1,9 @@
 # Music-and-its-order-game
 
+video of processing view: https://youtu.be/iXQvuL4FXzI.
+video of arduino view: https://youtu.be/f5DdZ445FY8.
+
+
 ### Starting state:  
 <img src="https://github.com/FairyyGenie/introToIM/blob/main/finalProject/Imagesofgame/final-1.png" width="400" height="400">.  
 
